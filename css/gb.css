@@ -3,3 +3,19 @@
 #top {
     height: 155px;
 }
+
+.node-media-gallery .teaser-text {
+    height: 230px;
+}
+
+.media-gallery-collection .teaser-container  {
+    border-bottom: 0;
+}
+
+.view-latest-galleries .jcarousel-skin-gb_block .jcarousel-item-horizontal {
+    border: 0;
+}
+
+.mg-col {
+  margin: 0 -0.5em;
+}
